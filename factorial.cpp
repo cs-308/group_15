@@ -2,7 +2,7 @@
 
 int factorial(int n){
     if(n<0){
-    	cout<<"Enter a positive number :"
+    	cout<<"Enter a positive number :";
     	int a;
     	cin>>a;
     	return factorial(a);
